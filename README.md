@@ -1,4 +1,3 @@
-
 <html>
 <head>
   <title>Sri Laxmi Weight Bridge</title>
