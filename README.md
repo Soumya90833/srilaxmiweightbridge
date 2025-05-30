@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
   <title>Sri Laxmi Weight Bridge</title>
@@ -30,7 +31,7 @@
 </head>
 <body>
 
-  <h1>Sri Laxmi Weight Bridge</h1>
+ 
 
   <input type="text" placeholder="Vehicle Number"><br>
 
