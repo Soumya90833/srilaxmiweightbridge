@@ -30,11 +30,8 @@
   </style>
 </head>
 <body>
-
- 
-
-  <input type="text" placeholder="Vehicle Number"><br>
-
+  <h1>Sri Laxmi Weight Bridge</h1>
+<input type="text" placeholder="Vehicle Number"><br>
   <select>
     <option value="">Select Wheeler</option>
     <option value="3">3</option>
