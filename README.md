@@ -31,18 +31,13 @@
 </head>
 <body>
 
-  <h1>Sri Laxmi Weight Bridge</h1>
+ 
 
   <input type="text" placeholder="Vehicle Number"><br>
 
   <select>
     <option value="">Select Wheeler</option>
     <option value="3">3</option>
-    <option value="4">4</option>
-    <option value="6">6</option>
-    <option value="12">12</option>
-    <option value="14">14</option>
-
     <option value="4">4</option>
     <option value="6">6</option>
     <option value="12">12</option>
